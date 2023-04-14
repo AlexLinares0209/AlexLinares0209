@@ -1,12 +1,5 @@
 # Hola! Soy Alex Linares👋
 
-Estudiante en proceso para ser Desarrollador Web Front-End. 🔭
-
-- 🌱 Actualmente estoy aprendiendo JavaScript y React Js
-- 💬 Pregúntame sobre HTML y CSS
-- 📫 Cómo contactarme: alexlinares0209@gmail.com
-- ⚡ Dato curioso: Veo muchos diseños de sitios web e intento replicarlos
-
 <h2 align="left">Lenguajes y Herramientas:</h2>
 <div align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
