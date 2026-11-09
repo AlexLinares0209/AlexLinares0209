@@ -1,6 +1,6 @@
 # Hola! Soy Alex Linares👋
 
-Front-End. 🔭
+Front-End developer. 🔭
 
 <h2 align="left">Lenguajes y Herramientas:</h2>
 
